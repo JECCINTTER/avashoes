@@ -1,0 +1,158 @@
+.nav-link:hover{
+  background-color: #C71585;
+}
+.nav-link{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  font-size: larger;
+  }
+
+.carousel-item img { width: 80%;
+  height: 400px; 
+ justify-content: center;
+ } 
+
+.sliding-text { animation: slideIn 1s ease-in-out;
+  /* Adjust animation duration as needed */
+  }
+ .contact-us{
+  text-emphasis: none;
+  text-align: center;
+  padding-inline-start: 20;
+  font-size:20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  gap: 200px;
+  color:blue;
+  list-style: none;
+}
+.pre-text{
+  background-color:pink ;
+  width: 100px;
+}
+.pre-text:hover{
+  background-color: hsl(188, 100%, 50%);
+}
+table{
+  margin-left:200px;
+  justify-content: center;
+  width: 100%;
+}
+.mb-3{
+  margin-left: 50PX;
+  
+}
+.text{
+  margin-left: 20px;
+}
+p{
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration-color:aqua;
+}
+.product{
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.product image{
+  width: 80%;
+  height: 250px;
+  transition: transform 3s ease;
+}
+button{
+  background-color: greenyellow;
+  width:50px;
+  height: 72px;
+}
+   /* Custom styling for the divs */
+   .image-container {
+    background-color: yellow; /* Light gray background color */
+    padding: 60px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    height: 250px;
+    width:250px; }
+    .image-fliud:hover{
+      background-color: blue;
+    }
+    .text{
+      font-size: 15px;
+      color:#413839;
+      text-align: left;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-decoration-color:#413839 ;
+    }
+    .product {
+      margin-bottom: 30px;
+      margin-top:20px ;
+  }
+  .product img {
+      width: 80%;
+      height: 250px;
+      transition: transform 3s ease;
+      padding-top: 20px;
+  }
+
+ 
+  button{
+    background-color:lightskyblue;
+    width: 400px;
+    height: 50px;
+
+  }
+  .product img:hover {
+    transform: scale(1.3); /* Change the scale factor as needed */
+    transition: transform 0.3s ease; /* Add transition for smooth effect */
+    
+}
+.col-md-3{
+  background-color:lightseagreen;
+}
+.col-md-6{
+  background-color:lightseagreen;
+}
+#our-services{
+  background-color: #f8f9fa;
+  padding: 50px;
+}
+.card{
+  border: none;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.card-title{
+  font-weight: bold;
+}
+.card-text{
+  font: italic;
+  color: black;
+}
+.col-md-10{
+  
+    display: grid;
+    place-items: center;
+    height: 100vh; /* Full viewport height */
+    padding-left: 10rem;
+    }
+
+  
+    .col-md-7 {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f0f0f0; /* Optional: Background color for visualization */
+   
+  }
+
+  #card {
+      /* Add any additional styles you want for the card */
+      border: 1px solid #ccc;
+      padding: 20px;
+      background-color: #fff;
+      padding-left: 20rem;
+     }
+    
